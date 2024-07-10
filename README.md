@@ -33,7 +33,7 @@ brew install sdl2
 ## Usage
 1) Enter into the github directory on your local machine
 ```
-cd The-great-Maze-project
+cd The_Maze
 ```
 2) Compile using the C compiler
 ```
