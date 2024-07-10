@@ -1,0 +1,16 @@
+{
+    "name": "SDL2 Development Environment",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "docker-in-docker": "latest"
+    },
+    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y libsdl2-dev",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    }
+}
