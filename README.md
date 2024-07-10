@@ -45,7 +45,7 @@ gcc -std=c99 ./src/*.c -lSDL2 -lm -o raycast
 ```
 ![image](https://github.com/Lamba237/The-great-Maze-project/assets/129569062/db04ce59-c054-45d9-91dd-006850c7e643)
 ## Contributing
-[Simon Tanyi's Github](https://github.com/Oussamachennak123)
+[Oussama Chennak's Github](https://github.com/Oussamachennak123)
 ## References
 [SDL2-Get started.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/9da3b82dc0bcfea07858b70956de47f0e2db2dad.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240710T210323Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3ecf88c296e2c5402de6eda885c7a588f88db55d347982423ac86699901a459a)
 
